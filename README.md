@@ -10,7 +10,7 @@ Direct image processing such as grayscaling, color inverting and convolution. Re
 
 <p align="center">
   <img src="images/duck.jpeg" width="45%" />
-  <img src="results/duck_sobel.png" width="45%" />
+  <img src="results/duck_sobel.jpeg" width="45%" />
 </p>
 
 <p align="center">
